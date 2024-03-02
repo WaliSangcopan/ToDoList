@@ -1,0 +1,13 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+
+/* styles/global.css */
+
+body {
+    background-color: #ffe6f2; /* Set your desired background color */
+    color: black; /* Set your desired text color */
+  }
+  
